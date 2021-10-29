@@ -1,0 +1,10 @@
+mail-server.example.net
+bob@example.com
+alice@example.net
+Re: The Cake
+Hi Alice,
+
+What about the cake then?
+
+Bob
+.
